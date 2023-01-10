@@ -88,6 +88,9 @@ PRODUCT_COPY_FILES += \
 # DebugFS
 PRODUCT_SET_DEBUGFS_RESTRICTIONS := true
 
+# Display
+TARGET_GRALLOC_HANDLE_HAS_NO_RESERVED_SIZE := true
+
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm@1.4-service.clearkey \
