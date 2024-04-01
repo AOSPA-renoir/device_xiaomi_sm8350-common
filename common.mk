@@ -136,7 +136,9 @@ PRODUCT_PACKAGES += \
     android.hardware.health@2.1-service
 
 PRODUCT_PACKAGES += \
+    libhidltransport \
     libhidltransport.vendor \
+    libhwbinder \
     libhwbinder.vendor
 
 # HotwordEnrollement
