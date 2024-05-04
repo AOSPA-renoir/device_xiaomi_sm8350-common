@@ -4,6 +4,9 @@ vendor.bluetooth.soc=hastings
 # Charger
 ro.charger.enable_suspend=true
 
+# Camera
+ro.product.mod_device=renoir_global
+
 # Graphics
 debug.sf.disable_backpressure=1
 
