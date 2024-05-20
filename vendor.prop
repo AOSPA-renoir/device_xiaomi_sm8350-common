@@ -79,7 +79,7 @@ ro.vendor.se.type=eSE,HCE,UICC
 # Radio
 persist.vendor.radio.atfwd.start=true
 persist.vendor.radio.data_ltd_sys_ind=1
-persist.vendor.radio.dynamic_load_mbn=3
+persist.vendor.radio.dynamic_load_mbn=7
 persist.vendor.radio.dynamic_sar=1
 persist.vendor.radio.enable_temp_dds=true
 persist.vendor.radio.force_ltd_sys_ind=1
