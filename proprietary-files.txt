@@ -241,18 +241,9 @@ vendor/lib64/libmmosal.so
 
 # Media (configs)
 vendor/etc/media/video_system_specs.json
-vendor/etc/media_codecs_lahaina.xml
-vendor/etc/media_codecs_performance_lahaina.xml
-vendor/etc/media_codecs_performance_shima_v1.xml
-vendor/etc/media_codecs_performance_yupik_v1.xml
-vendor/etc/media_codecs_shima_v1.xml
 vendor/etc/media_codecs_vendor_audio.xml
 vendor/etc/media_codecs_vendor_audio.xml
-vendor/etc/media_codecs_yupik_v1.xml
 vendor/etc/media_lahaina/video_system_specs.json
-vendor/etc/media_profiles_lahaina.xml
-vendor/etc/media_profiles_shima_v1.xml
-vendor/etc/media_profiles_yupik_v1.xml
 vendor/etc/media_shima_v1/video_system_specs.json
 vendor/etc/media_yupik_v1/video_system_specs.json
 
